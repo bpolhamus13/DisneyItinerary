@@ -1,0 +1,3 @@
+# Source planning doc contains private family details — keep it local
+*.docx
+~$*
