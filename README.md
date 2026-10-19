@@ -17,4 +17,6 @@ The whole site is a single self-contained `index.html`. To publish:
 
 All itinerary content is in the `const data = [...]` block near the top of the `<script>` in `index.html`. The trip guide content is in `const guide = {...}` right below it.
 
+The **Ride buddies** tab randomly splits checked riders into rows. Its one permanent rule (June always rides with Brandon or Sara) lives in `CHILD` / `PARENTS` in the script.
+
 The planning Word doc is intentionally gitignored so it never gets published.
